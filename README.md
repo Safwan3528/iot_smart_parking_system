@@ -243,10 +243,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- Email: [your-email@example.com]
-- GitHub: [@your-username]
-- LinkedIn: [your-linkedin-profile]
+**[Safwan Rahimi]**
+- Email: [tokrimauhitam@gmail.com]
+- GitHub: [Safwan3528]
 
 ## 🙏 Acknowledgments
 
