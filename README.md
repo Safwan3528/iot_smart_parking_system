@@ -243,9 +243,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**[Safwan Rahimi]**
-- Email: [tokrimauhitam@gmail.com]
-- GitHub: [Safwan3528]
+**Safwan Rahimi**
+- Email: tokrimauhitam@gmail.com
+- GitHub: Safwan3528
 
 ## 🙏 Acknowledgments
 
