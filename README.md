@@ -2,6 +2,8 @@
 
 An IoT-based automated parking management system using Arduino that detects car presence in parking slots and automatically controls entrance gates with real-time status display.
 
+![Smart Parking](https://github.com/user-attachments/assets/276ff9c4-140c-4682-891b-641d0869e092)
+
 ## 🚗 Project Overview
 
 The Smart Parking System is designed to solve common parking management issues by providing automated monitoring and control. The system uses ultrasonic sensors to detect vehicle presence, servo motors for gate control, and an LCD display for real-time status updates.
